@@ -13,7 +13,7 @@ Files
 
 - `calculator.py`: Main Python script that runs the calculator
 
-##How to Run
+## How to Run
 
 1. Make sure you have Python installed.
 2. Open terminal in the project folder.
